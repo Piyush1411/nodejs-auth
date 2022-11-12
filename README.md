@@ -3,8 +3,11 @@
 
 ## Web App Link
 
+<<<<<<< HEAD
 https://node-js-auth-p.herokuapp.com/
 
+=======
+>>>>>>> 4da0531275588ae03b1e217f48cd888ce0af29c0
 
 ## Technologies Used
 1.  NodeJS
