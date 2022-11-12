@@ -2,12 +2,8 @@
 > A complete authentication app with login, logout, register, forget password, email verification(for added security), and access control. Can be used as starter for other Node.JS applications. using Node.js, Express, Passport, JWT, Mongoose, and more. 
 
 ## Web App Link
-
-<<<<<<< HEAD
 https://node-js-auth-p.herokuapp.com/
 
-=======
->>>>>>> 4da0531275588ae03b1e217f48cd888ce0af29c0
 
 ## Technologies Used
 1.  NodeJS
